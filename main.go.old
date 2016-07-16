@@ -6,7 +6,6 @@ import (
     "os"
     "io/ioutil"
     "net"
-    // "github.com/kr/pty"
     "golang.org/x/crypto/ssh"
     "golang.org/x/crypto/ssh/terminal"
 )
